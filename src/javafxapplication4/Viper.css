@@ -1,0 +1,36 @@
+.root{
+    -fx-background-color: #383838;
+    
+}
+.button{-fx-background-color: #f44336;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+    
+   
+}
+.button:hover{
+    -fx-background-color: crimson;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+.button-green{
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+.button-green:hover{
+    -fx-background-color: green;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+.button-blue{
+    -fx-background-color: #008CBA;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+.button-blue:hover{
+    -fx-background-color:darkblue;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}

@@ -1,0 +1,29 @@
+.root{
+    -fx-background-color: #383838;
+    
+}
+
+.button{
+    -fx-background-color: red;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+   
+}
+
+ .button:hover{
+    -fx-background-color: crimson;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+   
+}
+
+.button1-blue{
+    -fx-background-color: #008CBA;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+.button1-blue:hover{
+    -fx-background-color: darkblue;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
